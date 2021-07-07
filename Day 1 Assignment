@@ -1,0 +1,12 @@
+//JavaScript Day-1 Assignment
+//To print "*" 5 times vertically
+
+
+var S="";
+
+for(var i=1;i<=5;i++)
+{
+  S=S+"*";
+}
+console.log(S);
+
